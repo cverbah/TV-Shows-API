@@ -1,7 +1,7 @@
 # TV Shows API
 
 ## About
-API Rest that permit the user to store TV Shows  from [http://api.tvmaze.com/shows](http://api.tvmaze.com/shows) in a local database and also allows the user to perform the following functionalities:
+API Rest that permit the user to store TV Shows  from [http://api.tvmaze.com/](http://api.tvmaze.com/) in a local database and also allows the user to perform the following functionalities:
 - Query a list of the available TV Shows on the local database
 - Query a TV Show info
 - Delete a TV Show from the local database
